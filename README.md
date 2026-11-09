@@ -37,6 +37,10 @@
 
 Your profile, keys and saved data stay on your PC, encrypted by Windows. We don't upload them. The app's server only passes along public Steam requests and writes guides from a game and achievement number. No accounts, no logs.
 
+## Code signing policy
+
+Free code signing provided by [SignPath.io](https://about.signpath.io), certificate by [SignPath Foundation](https://signpath.org). See the [code signing policy](https://github.com/YoungRedfox/achievement-hunter/blob/main/CODE_SIGNING_POLICY.md).
+
 ## Open source
 
 The code lives at [YoungRedfox/achievement-hunter](https://github.com/YoungRedfox/achievement-hunter) under GPL-3.0. This repository only hosts the official installers.
